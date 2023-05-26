@@ -1,0 +1,17 @@
+* {
+}
+
+.inserir_dados{
+    width: 50%;
+    
+}
+
+textarea {
+    resize: none;
+    width: calc(100% - 60px);
+}
+
+.comandos{
+    width: 60px;
+}
+
